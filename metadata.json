@@ -1,0 +1,8 @@
+{
+  "name": "Lab Report Studio",
+  "description": "Physics lab report generator with deterministic regression, uncertainty propagation, millimetre graph paper plots, and AI-written report sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
